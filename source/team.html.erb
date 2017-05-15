@@ -1,0 +1,16 @@
+<div class="team container">
+  <h1 class="text-center">
+    <span class="bold-welcome">Welcome</span> to the best team in France!
+  </h1>
+  <hr>
+  <ul class="list-inline text-center">
+    <% ["anne", "seb", "romain"].each do |member| %>
+      <li>
+        <%= image_tag "#{member}.jpg", class: "avatar-large" %>
+        <h3><%= member.capitalize %></h3>
+      </li>
+    <% end %>
+  </ul>
+
+  <h2 class="text-center padded"><i class="fa fa-envelope"></i> contact@airbnb.com</h2>
+</div>
