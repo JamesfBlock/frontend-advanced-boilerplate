@@ -1,0 +1,53 @@
+James:
+  owner_name: James Block
+  picture: card-brussels.jpeg
+  owner_picture: seb.jpg
+  name: James's home
+  summary: Charming room in High Wycombe
+  city: London, England
+  wifi: true
+Emily:
+  owner_name: Emily Sutton
+  picture: card-brussels.jpeg
+  owner_picture: seb.jpg
+  name: Em's home
+  summary: Nice house in Somerset
+  city: Somerset, UK
+  wifi: false
+William:
+  owner_name: William Sutton
+  picture: card-brussels.jpeg
+  owner_picture: seb.jpg
+  name: Will's home
+  summary: Nice house in Bristol
+  city: Bristol, UK
+  wifi: true
+Ben:
+  owner_name: James Block
+  picture: card-brussels.jpeg
+  owner_picture: seb.jpg
+  name: James's home
+  summary: Charming room in High Wycombe
+  city: London, England
+  wifi: true
+Bruno:
+  owner_name: Emily Sutton
+  picture: card-brussels.jpeg
+  owner_picture: seb.jpg
+  name: Em's home
+  summary: Nice house in Somerset
+  city: Somerset, UK
+  wifi: false
+Arnold:
+  owner_name: William Sutton
+  picture: card-brussels.jpeg
+  owner_picture: seb.jpg
+  name: Will's home
+  summary: Nice house in Bristol
+  city: Bristol, UK
+  wifi: true
+
+
+
+
+
